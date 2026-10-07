@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vajb Orbit — vote for the next release</title>
+  <meta name="description" content="Vote on what ships next in Vajb Orbit. Top-voted candidate wins the next release.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Oxanium:wght@700&family=Rajdhani:wght@500;600&family=Saira+Stencil+One&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <main class="page">
+    <header class="site-header">
+      <p class="stamp" id="cycle-stamp">CYCLE</p>
+      <h1 class="title">VAJB ORBIT</h1>
+      <p class="cycle-name" id="cycle-name"></p>
+      <p class="cycle-note" id="cycle-note"></p>
+    </header>
+    <section aria-label="Candidates">
+      <div class="grid" id="vote-grid"></div>
+      <p class="state-note" id="load-note" hidden></p>
+    </section>
+    <section class="shipped" id="shipped-section" hidden>
+      <h2 class="section-title">Shipped</h2>
+      <ul class="shipped-list" id="shipped-list"></ul>
+    </section>
+    <footer class="site-footer">
+      <p class="how">Every candidate is a GitHub issue. Add a &#128077; reaction to an issue's first post to vote — one vote per account. The top-voted candidate when the cycle is cut is what ships next.</p>
+      <p class="counts-note" id="counts-note" hidden>Live count fetch failed — showing the last cached numbers.</p>
+      <p class="updated-line" id="updated-line"></p>
+    </footer>
+  </main>
+  <script src="assets/site.js"></script>
+</body>
+</html>

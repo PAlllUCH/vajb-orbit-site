@@ -1,0 +1,99 @@
+{
+  "cycle": 1,
+  "cycle_name": "Next content release",
+  "cycle_note": "The P3 content-feel push plus roadmap staples. Top votes when the owner cuts the cycle decide what ships next.",
+  "repo": "PAlllUCH/vajb-orbit-site",
+  "updated": "2026-10-07",
+  "candidates": [
+    {
+      "slug": "world-identity",
+      "title": "World identity",
+      "blurb": "Give the sector a visible identity: named regions, signage and a coherent look for every place you dock.",
+      "status": "planned",
+      "issue": null,
+      "votes_cached": 0,
+      "updated": "2026-10-07"
+    },
+    {
+      "slug": "contracts-board",
+      "title": "Contracts board",
+      "blurb": "A station board where jobs are posted, compared and accepted.",
+      "status": "planned",
+      "issue": null,
+      "votes_cached": 0,
+      "updated": "2026-10-07"
+    },
+    {
+      "slug": "bosses-arenas",
+      "title": "Bosses, arenas, insurance, vaults",
+      "blurb": "Boss fights, arena events and the insurance and vault services that make risky runs worth it.",
+      "status": "planned",
+      "issue": null,
+      "votes_cached": 0,
+      "updated": "2026-10-07"
+    },
+    {
+      "slug": "catalog-shipyard",
+      "title": "Catalog breadth and shipyard",
+      "blurb": "A wider module catalog and a proper shipyard to spend your credits at.",
+      "status": "planned",
+      "issue": null,
+      "votes_cached": 0,
+      "updated": "2026-10-07"
+    },
+    {
+      "slug": "galactic-map",
+      "title": "Galactic map travel",
+      "blurb": "Jump between systems on a galactic map instead of flying out of a single hub.",
+      "status": "planned",
+      "issue": null,
+      "votes_cached": 0,
+      "updated": "2026-10-07"
+    },
+    {
+      "slug": "factions",
+      "title": "Factions and standing",
+      "blurb": "Factions with reputation, rewards and consequences for who you side with.",
+      "status": "planned",
+      "issue": null,
+      "votes_cached": 0,
+      "updated": "2026-10-07"
+    },
+    {
+      "slug": "heat-bounty",
+      "title": "Heat and bounty",
+      "blurb": "Heat for your crimes, wanted status, and bounty hunting to profit from other pilots' mistakes.",
+      "status": "planned",
+      "issue": null,
+      "votes_cached": 0,
+      "updated": "2026-10-07"
+    },
+    {
+      "slug": "crafting",
+      "title": "Crafting",
+      "blurb": "Build your own modules from components and minerals instead of waiting for drops.",
+      "status": "planned",
+      "issue": null,
+      "votes_cached": 0,
+      "updated": "2026-10-07"
+    },
+    {
+      "slug": "refinery",
+      "title": "Refinery",
+      "blurb": "Refine raw ore into the materials the rest of the economy runs on.",
+      "status": "planned",
+      "issue": null,
+      "votes_cached": 0,
+      "updated": "2026-10-07"
+    },
+    {
+      "slug": "exchange",
+      "title": "Player exchange",
+      "blurb": "A market where pilots set the prices for loot, minerals and modules.",
+      "status": "planned",
+      "issue": null,
+      "votes_cached": 0,
+      "updated": "2026-10-07"
+    }
+  ]
+}
