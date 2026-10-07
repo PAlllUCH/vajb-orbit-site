@@ -10,7 +10,7 @@
       "title": "World identity",
       "blurb": "Give the sector a visible identity: named regions, signage and a coherent look for every place you dock.",
       "status": "planned",
-      "issue": null,
+      "issue": 1,
       "votes_cached": 0,
       "updated": "2026-10-07"
     },
@@ -19,7 +19,7 @@
       "title": "Contracts board",
       "blurb": "A station board where jobs are posted, compared and accepted.",
       "status": "planned",
-      "issue": null,
+      "issue": 2,
       "votes_cached": 0,
       "updated": "2026-10-07"
     },
@@ -28,7 +28,7 @@
       "title": "Bosses, arenas, insurance, vaults",
       "blurb": "Boss fights, arena events and the insurance and vault services that make risky runs worth it.",
       "status": "planned",
-      "issue": null,
+      "issue": 3,
       "votes_cached": 0,
       "updated": "2026-10-07"
     },
@@ -37,7 +37,7 @@
       "title": "Catalog breadth and shipyard",
       "blurb": "A wider module catalog and a proper shipyard to spend your credits at.",
       "status": "planned",
-      "issue": null,
+      "issue": 4,
       "votes_cached": 0,
       "updated": "2026-10-07"
     },
@@ -46,7 +46,7 @@
       "title": "Galactic map travel",
       "blurb": "Jump between systems on a galactic map instead of flying out of a single hub.",
       "status": "planned",
-      "issue": null,
+      "issue": 5,
       "votes_cached": 0,
       "updated": "2026-10-07"
     },
@@ -55,7 +55,7 @@
       "title": "Factions and standing",
       "blurb": "Factions with reputation, rewards and consequences for who you side with.",
       "status": "planned",
-      "issue": null,
+      "issue": 6,
       "votes_cached": 0,
       "updated": "2026-10-07"
     },
@@ -64,7 +64,7 @@
       "title": "Heat and bounty",
       "blurb": "Heat for your crimes, wanted status, and bounty hunting to profit from other pilots' mistakes.",
       "status": "planned",
-      "issue": null,
+      "issue": 7,
       "votes_cached": 0,
       "updated": "2026-10-07"
     },
@@ -73,7 +73,7 @@
       "title": "Crafting",
       "blurb": "Build your own modules from components and minerals instead of waiting for drops.",
       "status": "planned",
-      "issue": null,
+      "issue": 8,
       "votes_cached": 0,
       "updated": "2026-10-07"
     },
@@ -82,7 +82,7 @@
       "title": "Refinery",
       "blurb": "Refine raw ore into the materials the rest of the economy runs on.",
       "status": "planned",
-      "issue": null,
+      "issue": 9,
       "votes_cached": 0,
       "updated": "2026-10-07"
     },
@@ -91,7 +91,7 @@
       "title": "Player exchange",
       "blurb": "A market where pilots set the prices for loot, minerals and modules.",
       "status": "planned",
-      "issue": null,
+      "issue": 10,
       "votes_cached": 0,
       "updated": "2026-10-07"
     }
